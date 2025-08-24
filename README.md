@@ -1,5 +1,5 @@
 ## 📌 Descrição
-Este repositório contém o **pipeline de dados financeiros** utilizado para alimentar o [dashboard-financeiro](./dashboard-financeiro) e [previsao-custos](./previsao-custos).  
+Este repositório contém um **pipeline de dados financeiros** simples utilizado para alimentar o [dashboard-financeiro](./dashboard-financeiro) e [previsao-custos](./previsao-custos).  
 O projeto realiza a **extração, transformação e carregamento (ETL)** dos dados, garantindo atualização incremental e automatizada em um banco open source online **Postgres (Supabase)**.
 
 ## 🚀 Objetivos do Projeto
